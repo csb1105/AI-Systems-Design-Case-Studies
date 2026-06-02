@@ -1,0 +1,4 @@
+## Problem Statement
+Organizations operating in industrial, manufacturing, construction, and hazardous work environments must ensure personnel consistently wear required Personal Protective Equipment (PPE), including hard hats, safety vests, protective eyewear, gloves, and other safety gear. Traditional compliance monitoring relies heavily on manual observation, periodic inspections, and supervisor oversight, making enforcement labor-intensive, inconsistent, and difficult to scale.
+
+Missed PPE violations can increase the likelihood of workplace injuries, regulatory penalties, operational disruptions, and financial liability. Organizations require an automated solution capable of continuously monitoring work environments, identifying PPE compliance violations in real time, and providing actionable alerts that improve worker safety while reducing the burden of manual inspections.
