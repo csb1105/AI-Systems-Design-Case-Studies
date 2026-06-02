@@ -27,6 +27,10 @@ The goal of this repository is to bridge the gap between AI theory and real-worl
 - AI for Government and Public Sector
 - Performance, Reliability, and Security Engineering
 
+## Current Case Studies
+### Enterprise AI
+- [Federal RAG Knowledge Assistant](Case-Studies/Enterprise-AI/Federal-RAG-Knowledge-Assistant)
+
 ## Repository Structure
 ```text
 AI-Systems-Design-Case-Studies/
