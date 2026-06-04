@@ -32,7 +32,7 @@ The goal of this repository is to bridge the gap between AI theory and real-worl
 - [Federal RAG Knowledge Assistant](Case-Studies/Enterprise-AI/Federal-RAG-Knowledge-Assistant)
   
 ### Computer Vision
-- [PPE Detection System](Case-Studies/Computer-Vision/PPE-Detection-System)
+- [PPE Detection System]([Case-Studies/Computer-Vision/PPE-Detection-System](https://github.com/csb1105/AI-Systems-Design-Case-Studies/blob/main/Computer-Vision/PPE-Detection-System/README.md))
 
 ## Repository Structure
 ```text
