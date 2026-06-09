@@ -29,8 +29,8 @@ The goal of this repository is to bridge the gap between AI theory and real-worl
 
 ## Current Case Studies
 ### Enterprise AI
-- [Federal RAG Knowledge Assistant](Case-Studies/Enterprise-AI/Federal-RAG-Knowledge-Assistant)
-  
+- [Federal RAG Knowledge Assistant](https://github.com/csb1105/AI-Systems-Design-Case-Studies/tree/main/Case-Studies/Enterprise-AI/Federal-RAG-Knowledge-Assistant)
+
 ### Computer Vision
 - [PPE Detection System](https://github.com/csb1105/AI-Systems-Design-Case-Studies/tree/main/Case-Studies/Computer-Vision/PPE-Detection-System)
   
